@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TouchHologram1
+  m_Shader: {fileID: -6465566751694194690, guid: 1418d9b3210bbcd4683d8cd13593d1f5, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _SampleTexture2D_1bcd698bbd364492881fb8a9e4f6a49e_Texture_1:
+        m_Texture: {fileID: 2800000, guid: 5c08ca3924456304f976a2487baba6a1, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_875726ad4c76485cba32618df4787db0: 0.1
+    m_Colors:
+    - Color_f962f6a9719a43409e5d3dab7447c086: {r: 1, g: 1, b: 1, a: 0}
+    - Vector3_189617afbe694e33a77550bea37fed15: {r: -13.401675, g: 4.789999, b: -20.793636, a: 0}
+  m_BuildTextureStacks: []
